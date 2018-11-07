@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/holo_blue_dark">
+
+    <TextView
+        android:id="@+id/song_title"
+        style="@style/songTitleTextView"
+        tools:text="Hello"/>
+
+    <TextView
+        android:id="@+id/year_release"
+        style="@style/yearTextView"
+        tools:text="2010"/>
+
+    <TextView
+        android:id="@+id/album"
+        style="@style/albumTextView"
+        tools:text="Lemonade"/>
+
+    <TextView
+        android:id="@+id/length"
+        style="@style/lengthTextView"
+        tools:text="3:23"/>
+
+    <ImageView
+        android:id="@+id/play_icon"
+        style="@style/iconImageView"
+        android:src="@drawable/playicon"
+        android:contentDescription= "@string/songImageView" />
+
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="selectSingerTextSize">24sp</dimen>
+
+    <dimen name="singerImageViewWidthAndHeight">170dp</dimen>
+    <dimen name="singerImageViewMargin">8dp</dimen>
+
+    <dimen name="songTitleTextSize">24sp</dimen>
+    <dimen name="songTitleTopAndBottomMargin">8dp</dimen>
+    <dimen name="songTitleLeftMargin">16dp</dimen>
+
+    <dimen name="yearTextSize">18sp</dimen>
+    <dimen name="yearBottomMargin">8dp</dimen>
+    <dimen name="yearLeftMargin">16dp</dimen>
+
+    <dimen name="albumTextSize">18sp</dimen>
+    <dimen name="albumLeftMargin">16dp</dimen>
+
+    <dimen name="lengthTextSize">18sp</dimen>
+    <dimen name="lengthTopMargin">8dp</dimen>
+    <dimen name="lengthRightMargin">16dp</dimen>
+
+    <dimen name="iconImageViewWidthAndHeight">28dp</dimen>
+    <dimen name="iconRightMargin">16dp</dimen>
+    <dimen name="iconTopMargin">16dp</dimen>
+
+</resources>

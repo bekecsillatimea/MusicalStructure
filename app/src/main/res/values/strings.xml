@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="song_activity_label">Songs</string>
+    <string name="main_activity_label">Singers</string>
+    <string name="singer_select">Select a singer</string>
+
+    <string name="singerImageView">Singers image for user to select</string>
+    <string name="songImageView">Play icon so the user can realize it can click on and play music</string>
+</resources>
